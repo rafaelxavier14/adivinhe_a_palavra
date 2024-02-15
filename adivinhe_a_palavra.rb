@@ -40,6 +40,7 @@ while novo_jogo == "s"
             fim = true
         end
     end
+    
 
     puts  "Parabens, a palavra era #{palavra_parcial.join}!"
     puts "Deseja Jogar novamente(s/n)"
